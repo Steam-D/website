@@ -2370,6 +2370,30 @@ input, select, textarea {
 
 			}
 
+			.hr1 {
+  		color: #148947;
+			}
+
+			.hr2 {
+			  color: #004aad;
+			}
+
+			.hr3 {
+			  color: #ff914d;
+			}
+
+			.hr4 {
+  		color: #8c52ff;
+			}
+
+			.hr5 {
+			  color: #ff1616;
+			}
+
+			.hr6 {
+			  color: #000000;
+			}
+
 /* Table */
 
 	.table-wrapper {
@@ -2837,6 +2861,8 @@ input, select, textarea {
 			border-bottom: 0;
 			color: inherit;
 			font-weight: 900;
+			font-family: "Courier New";
+			font-size: 150%;
 			letter-spacing: 0.35em;
 			margin: 0 0 2.5em 0;
 			text-decoration: none;
@@ -2855,8 +2881,9 @@ input, select, textarea {
 
 				#header .logo .symbol img {
 					display: block;
-					width: 2em;
-					height: 2em;
+					width: 5rem;
+					height: 5rem;
+
 				}
 
 		#header nav {
