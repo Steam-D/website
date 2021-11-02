@@ -157,6 +157,10 @@ input, select, textarea {
 			color: #148947 !important;
 		}
 
+		a:hover.ice{
+			color:#004aad !important
+		}
+
 	strong, b {
 		font-weight: 900;
 	}
@@ -2951,9 +2955,9 @@ input, select, textarea {
 			color: inherit;
 			font-weight: 900;
 			font-family: "Courier New";
-			font-size: 150%;
+			font-size: 200%;
 			letter-spacing: 0.35em;
-			margin: 0 0 2.5em 0;
+			margin: 0 0 1.5em 0;
 			text-decoration: none;
 			text-transform: uppercase;
 			display: inline-block;
@@ -2970,8 +2974,8 @@ input, select, textarea {
 
 				#header .logo .symbol img {
 					display: block;
-					width: 5rem;
-					height: 5rem;
+					width: 10rem;
+					height: 10rem;
 
 				}
 
